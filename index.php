@@ -10,6 +10,11 @@
         Tambah Data
     </a>
   <div>
+  <div class="form-button" style="margin-top:1rem;">
+    <a href="proses_laporan.php">
+        Ekspor ke PDF
+    </a>
+  <div>
   <br/>
   <table style="border-collapse: collapse; width: 100%; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">
   <tr>
