@@ -1,0 +1,55 @@
+.form-button > a{
+    display: inline-block;
+    padding: 8px 16px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #4CAF50;
+    border-radius: 4px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    border: none;
+}
+
+.form-button > input{
+    display: inline-block;
+    padding: 8px 16px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #4CAF50;
+    border-radius: 4px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    border-color: #4CAF50;
+    border-style: none;
+    margin-bottom: 1rem;
+}
+
+.title-text {
+    text-align: center;
+    color: #4CAF50;
+    font-size: 64px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+body {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even){background-color: #f2f2f2}
+  
+  th {
+    background-color: #4CAF50;
+    color: white;
+  }
